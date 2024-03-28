@@ -1,2 +1,3 @@
 # Dem-Tensorflow-Keras-Settings
-Data Science: Python-Tensorflow/Keras
+Tensorflow/Keras repository
+## Application of Tensorflow & Keras 
